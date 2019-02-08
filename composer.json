@@ -1,7 +1,7 @@
 {
-    "name":         "nikserg/cryptopro-curl",
-    "description":  "Curl client via CryptoPro console util",
-    "keywords":     ["curl", "cryptopro", "tls"],
+    "name":         "nikserg/cryptopro-soap-client",
+    "description":  "SOAP client via CryptoPro console util",
+    "keywords":     ["curl", "cryptopro", "tls", "soap"],
     "authors":      [
         {
             "name":      "Nikita Zarubin",
@@ -15,7 +15,7 @@
 
     "autoload": {
         "psr-4": {
-            "nikserg\\cryptoproCurl\\":   ""
+            "nikserg\\cryptoproSoapClient\\":   ""
         }
     }
 }
