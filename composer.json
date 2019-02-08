@@ -1,0 +1,21 @@
+{
+    "name":         "nikserg/cryptopro-curl",
+    "description":  "Curl client via CryptoPro console util",
+    "keywords":     ["curl", "cryptopro", "tls"],
+    "authors":      [
+        {
+            "name":      "Nikita Zarubin",
+            "email":     "nikitadimitrov@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "nikserg\\cryptopro-curl":   ""
+        }
+    }
+}
