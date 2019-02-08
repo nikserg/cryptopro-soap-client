@@ -3,6 +3,6 @@
 
 ## Установка
 
-`composer require nikserg/cryptopro-curl`
+`composer require nikserg/cryptopro-soap-client`
 
 2
